@@ -1,4 +1,4 @@
-# Bienvenido/a al Repositorio de William Gutiérrez en GitHub
+# Bienvenido a mi Repositorio
 
 ¡Hola! Soy William Gutiérrez, un apasionado ingeniero en informática con más de 3 años de experiencia trabajando con diversas tecnologías, entre las que destacan JavaScript, TypeScript, Python y Java. Este repositorio es un espacio donde comparto algunos de mis conocimientos, experiencias y recursos relacionados con el fascinante mundo de la programación.
 
@@ -35,7 +35,7 @@ Mantente al día con mis últimos artículos y actualizaciones:
 
 ## Contacto
 
-- **Correo Electrónico:** william.gutierrez@email.com
+- **Correo Electrónico:** alexander.wgs7@gmail.com
 - **LinkedIn:** [William Gutiérrez en LinkedIn](enlace_a_tu_perfil_linkedin)
 - **Twitter:** [@will_gutierrez](enlace_a_tu_perfil_twitter)
 
